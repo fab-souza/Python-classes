@@ -1,2 +1,6 @@
+print("*******************************************")
+print("Este código pede um valor e devolve o mesmo")
+print("*******************************************")
+print()
 numero = input ("Digite um número: ")
 print("O valor do número digitado é: ", numero)
