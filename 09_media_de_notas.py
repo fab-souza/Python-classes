@@ -16,4 +16,4 @@ nota_str = input("Digite a última nota: ")
 nota_4 = float(nota_str)
 print()
 media = (nota_1 + nota_2 + nota_3 + nota_4) / 4
-print("A média das notas é: ", media)
+print("A média das notas é {:.2}".format(media))
