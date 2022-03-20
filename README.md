@@ -1,2 +1,2 @@
 # Python-classes
-Reforçando o aprendizado em Python ao reescrever meus primeiros códigos em C
+Reforçando meu aprendizado ao reescrever meus primeiros códigos em C para Python
